@@ -1,0 +1,18 @@
+services:
+  frontend:
+    build: frontend
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ~/.composer-docker/cache:/root/.composer/cache:delegated
+      - ./:/app
+
+  mysql:
+    image: mariadb
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=adminfindb
+    volumes:
+      - ./database:/var/lib/mysql:Z

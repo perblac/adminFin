@@ -1,0 +1,12 @@
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (11, 3, 'closed', 13, 1716668647, 2, 1716677165, 2);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (12, 3, 'open', 16, 1716672272, 2, 1716672272, 2);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (13, 3, 'closed', 17, 1716674708, 3, 1716675560, 3);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (14, 3, 'open', 19, 1717169677, 3, 1717169677, 3);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (15, 3, 'open', 20, 1717169700, 3, 1717169700, 3);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (16, 3, 'open', 21, 1717169732, 3, 1717169732, 3);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (17, 3, 'open', 22, 1717169748, 3, 1717169748, 3);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (18, 8, 'open', 29, 1717175390, 8, 1717175390, 8);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (19, 8, 'open', 30, 1717175970, 2, 1717175970, 2);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (20, 7, 'open', 31, 1717176053, 6, 1717176053, 6);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (21, 7, 'open', 32, 1717534035, 2, 1717705721, 2);
+INSERT INTO adminfindb.conversation (id, client_id, status, first_notification, created_at, created_by, updated_at, updated_by) VALUES (22, 8, 'open', 34, 1717534992, 8, 1717534992, 8);
